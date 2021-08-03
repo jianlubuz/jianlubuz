@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nidie
+- 👋 Hi, I’m jianlubuz
 - 👀 I’m interested in python linux
 - 🌱 I’m currently learning vim
 - 💞️ I’m looking to collaborate on github stackoverflow
